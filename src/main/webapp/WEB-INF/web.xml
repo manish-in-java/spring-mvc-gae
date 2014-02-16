@@ -19,6 +19,6 @@
   </servlet>
   <servlet-mapping>
     <servlet-name>spring-mvc-dispatcher</servlet-name>
-    <url-pattern>/</url-pattern>
+    <url-pattern>*.jsp</url-pattern>
   </servlet-mapping>
 </web-app>
